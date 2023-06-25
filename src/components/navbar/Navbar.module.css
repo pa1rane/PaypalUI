@@ -1,0 +1,66 @@
+.navbar {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 220px;
+  height: 80px;
+  background: #181887;
+  color: #b0b0b8;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+}
+
+.logoContainer {
+  padding: 10px;
+  margin-right: 35px;
+}
+
+.logo {
+  font-size: 20px;
+}
+.logo:hover {
+  cursor: pointer;
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+}
+
+.navList li {
+  margin-right: 30px;
+  padding: 10px;
+  border-radius: 18px;
+}
+
+.navList li:hover {
+  cursor: pointer;
+  background: #36368e;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.logout {
+  padding: 10px;
+  border-radius: 18px;
+}
+.logout:hover {
+  cursor: pointer;
+  background: #36368e;
+}

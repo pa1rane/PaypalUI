@@ -1,0 +1,42 @@
+.filterContainer {
+  margin-left: 22%;
+}
+
+.dropdowns {
+  display: flex;
+  margin: 20px 0;
+  gap: 10px;
+}
+
+select {
+  border: none;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent;
+  font-size: 15px;
+  color: #181887;
+}
+
+.d1 {
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 20px;
+  color: #181887;
+  background: #dceaf4;
+}
+.d2 {
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 20px;
+  color: #181887;
+  border: 1px solid rgb(205, 201, 201);
+}
+.d3 {
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 20px;
+  color: #181887;
+  border: 1px solid rgb(205, 201, 201);
+}
