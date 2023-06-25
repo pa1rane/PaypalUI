@@ -9,7 +9,7 @@
 * `npm install`
 * `npm start`
 # demo
-paypal-ui.vercel.app
+[Click here](paypal-ui.vercel.app)
 # Author
 * @pa1rane
 * LinkedIn
