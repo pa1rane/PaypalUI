@@ -8,6 +8,8 @@
 * `git clone https://github.com/pa1rane/PaypalUI `
 * `npm install`
 * `npm start`
+# demo
+paypal-ui.vercel.app
 # Author
 * @pa1rane
 * LinkedIn
